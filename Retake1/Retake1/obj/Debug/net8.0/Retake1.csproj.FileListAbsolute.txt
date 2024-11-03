@@ -1,0 +1,15 @@
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.AssemblyInfoInputs.cache
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.AssemblyInfo.cs
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.sourcelink.json
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\bin\Debug\net8.0\Retake1.exe
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\bin\Debug\net8.0\Retake1.deps.json
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\bin\Debug\net8.0\Retake1.runtimeconfig.json
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\bin\Debug\net8.0\Retake1.dll
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\bin\Debug\net8.0\Retake1.pdb
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.dll
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\refint\Retake1.dll
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.pdb
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\Retake1.genruntimeconfig.cache
+C:\Users\Kirin\OneDrive\Рабочий стол\IVT\C#\VPiCHMV\Retake1\Retake1\obj\Debug\net8.0\ref\Retake1.dll
